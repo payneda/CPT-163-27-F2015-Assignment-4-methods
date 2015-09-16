@@ -1,5 +1,5 @@
-#### Week 4 (Functions) Assignment
-Two assignments ago we wrote a large conditional menu with 5 options. For this assignment you will take the body of each __case__ or __if__ and move it into a function and then call that function in its place. At the end you should have a unique function for each unique body in your menu.
+#### Week 4 (Methods) Assignment
+Two assignments ago we wrote a large conditional menu with 5 options. For this assignment you will take the body of each __case__ or __if__ and move it into a **Method** and then call that **Method** in its place. At the end you should have a unique function for each unique body in your menu.
 
 Example
 ```
